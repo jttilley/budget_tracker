@@ -6,7 +6,7 @@
 This will track your budget expenses and income weather you are online or offline. Once you go back online it will update the database with everything that was stored while offline.
 
 ## Links
-Deployed link: heroku
+Deployed link: https://budget-tracker-37.herokuapp.com/
 
 Repo link: https://github.com/jttilley/budget_tracker
 
